@@ -1,0 +1,7 @@
+E:\FINALPROJECT\Message\ServerTestChat\bin\Debug\ServerTestChat.exe.config
+E:\FINALPROJECT\Message\ServerTestChat\bin\Debug\ServerTestChat.exe
+E:\FINALPROJECT\Message\ServerTestChat\bin\Debug\ServerTestChat.pdb
+E:\FINALPROJECT\Message\ServerTestChat\obj\Debug\ServerTestChat.csproj.AssemblyReference.cache
+E:\FINALPROJECT\Message\ServerTestChat\obj\Debug\ServerTestChat.csproj.CoreCompileInputs.cache
+E:\FINALPROJECT\Message\ServerTestChat\obj\Debug\ServerTestChat.exe
+E:\FINALPROJECT\Message\ServerTestChat\obj\Debug\ServerTestChat.pdb

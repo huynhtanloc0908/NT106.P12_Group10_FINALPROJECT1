@@ -1,0 +1,10 @@
+E:\NT106-DOAN\NT106.P12-Group10\Message\SeverMessage\bin\Debug\SeverMessage.exe.config
+E:\NT106-DOAN\NT106.P12-Group10\Message\SeverMessage\bin\Debug\SeverMessage.exe
+E:\NT106-DOAN\NT106.P12-Group10\Message\SeverMessage\bin\Debug\SeverMessage.pdb
+E:\NT106-DOAN\NT106.P12-Group10\Message\SeverMessage\obj\Debug\SeverMessage.csproj.AssemblyReference.cache
+E:\NT106-DOAN\NT106.P12-Group10\Message\SeverMessage\obj\Debug\SeverMessage.Properties.Resources.resources
+E:\NT106-DOAN\NT106.P12-Group10\Message\SeverMessage\obj\Debug\SeverMessage.csproj.GenerateResource.cache
+E:\NT106-DOAN\NT106.P12-Group10\Message\SeverMessage\obj\Debug\SeverMessage.csproj.CoreCompileInputs.cache
+E:\NT106-DOAN\NT106.P12-Group10\Message\SeverMessage\obj\Debug\SeverMessage.exe
+E:\NT106-DOAN\NT106.P12-Group10\Message\SeverMessage\obj\Debug\SeverMessage.pdb
+E:\NT106-DOAN\NT106.P12-Group10\Message\SeverMessage\obj\Debug\SeverMessage.Sever.resources

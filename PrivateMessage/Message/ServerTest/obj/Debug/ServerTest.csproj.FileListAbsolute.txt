@@ -1,0 +1,7 @@
+E:\FINALPROJECT\Message\ServerTest\bin\Debug\ServerTest.exe.config
+E:\FINALPROJECT\Message\ServerTest\bin\Debug\ServerTest.exe
+E:\FINALPROJECT\Message\ServerTest\bin\Debug\ServerTest.pdb
+E:\FINALPROJECT\Message\ServerTest\obj\Debug\ServerTest.csproj.AssemblyReference.cache
+E:\FINALPROJECT\Message\ServerTest\obj\Debug\ServerTest.csproj.CoreCompileInputs.cache
+E:\FINALPROJECT\Message\ServerTest\obj\Debug\ServerTest.exe
+E:\FINALPROJECT\Message\ServerTest\obj\Debug\ServerTest.pdb
